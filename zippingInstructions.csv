@@ -6,4 +6,4 @@ true,,/path/dir3/,dir_new_3,zip,,,,,
 true,,/path/file1.zip,,,,,,,
 true,,/path/file2.zip,,,,,,,
 true,,/path/file3.zip,,,,,,,
-true,rsync,/path/file4.zip,,,alex,test1234,188.173.211.81,2222,/path/to/test/
+true,rsync,/path/file4.zip,,,testUser,test1234,100.100.200.80,5555,/path/to/test/
